@@ -41,17 +41,18 @@ __Alternatively__, if you are on Windows and feel comfortable with using a batch
 
 >__Note:__ It is recommended use the terminate command when you want to stop the bot (before of closing the terminal).
 
-
+## License
+Licensed under the [BSD 3-Clause License](./LICENSE.md)
 
 ## Documentation
 Documentation will be added soon™.
 
 ## Contributing
 
-If you want to help with this project, fork the repo  contact me on Discord.
+If you want to help with this project, fork the repo and contact me.
 
 -Discord tag: `TryphonX#9479`
 
 ## Feedback
 
-If you encounter a bug or have a suggestion take the time to post it __[here](https://github.com/TryphonX/YADSB/issues/new)__.
+If you encounter a bug or have a suggestion take the time to post it [here](https://github.com/TryphonX/YADSB/issues/new).
