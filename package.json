@@ -1,0 +1,18 @@
+{
+  "name": "yadsb",
+  "version": "v0.0.1-alpha",
+  "description": "",
+  "main": "yadsb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TryphonX",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.5.0",
+    "ini": "^1.3.5",
+    "sqlite3": "^4.0.4"
+  }
+}
