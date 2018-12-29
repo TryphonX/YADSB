@@ -14,7 +14,8 @@ const clientLog = (msg) => {
 
 client.login(config.app.token);
 
-// Events
+//eventHandler.run(client, config);
+
 fs.readdir("./src/events", (err, files) => {
 	if (err) return console.error(err);
 	files.forEach(file => {
@@ -26,7 +27,7 @@ fs.readdir("./src/events", (err, files) => {
 	});
 });
 
-// Commands
+// Loading Commands
 client.commands = new Enmap();
 fs.readdir("./src/commands/", (err, files) => {
 	if (err) return console.error(err);

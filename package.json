@@ -1,7 +1,7 @@
 {
   "name": "yadsb",
-  "version": "v0.0.1-alpha",
-  "description": "",
+  "version": "v0.0.2",
+  "description": "A classic discord bot.",
   "main": "yadsb.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

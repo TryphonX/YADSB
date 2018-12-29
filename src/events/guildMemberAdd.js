@@ -1,4 +1,4 @@
-const userDataHandler = require("../handlers/userData.js");
+const userDataHandler = require("../handlers/userDataHandler.js");
 
 module.exports = (client, config, member) => {
 	// if a bot joins exit

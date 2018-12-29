@@ -5,5 +5,5 @@ exports.run = (client, msg) => {
 	else if (ping<300) emoji = "🚧";
 	else if (ping<500) emoji = "🔻";
 	else emoji = "😖";
-	return msg.channel.send(`Pong! Response time: ${ping}ms ${emoji}`).catch(console.error);
+	return msg.channel.send(`${emoji}Pong! Response time: ${ping}ms`).catch(console.error);
 };
