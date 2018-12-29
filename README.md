@@ -7,7 +7,7 @@ This bot has been created mainly to gain more experience; however it's still a f
 
 >__Note:__ The bot is personal project, also currently a WIP. I can not guarantee there won't be any bugs or things I might have missed. Feel free to submit your ideas or report bugs __[here](https://github.com/TryphonX/YADSB/issues/new)__.
 
-# Contents
+### Contents
 - [Getting Started](#Getting-Started)
 
 	◦ [Familiar with Discord apps?](#Familiar-with-Discord-apps?)
@@ -15,6 +15,7 @@ This bot has been created mainly to gain more experience; however it's still a f
 	◦ [Not familiar with Discord apps?](#Not-familiar-with-Discord-apps?)
 - [Configuration](#Configuration)
 - [Launch](#Launch)
+- [License](#License)
 - [Documnetation](#Documentation)
 - [Contributing](#Contributing)
 - [Feedback](#Feedback)
@@ -42,10 +43,10 @@ __Alternatively__, if you are on Windows and feel comfortable with using a batch
 >__Note:__ It is recommended use the terminate command when you want to stop the bot (before of closing the terminal).
 
 ## License
-Licensed under the [BSD 3-Clause License](./LICENSE.md)
+Licensed under the [BSD 3-Clause License](./LICENSE.md).
 
 ## Documentation
-Documentation will be added soon™.
+Documentation can be found [here](https://github.com/TryphonX/YADSB/wiki/Documentation).
 
 ## Contributing
 
